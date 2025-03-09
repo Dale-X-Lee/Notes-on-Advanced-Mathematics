@@ -1,2 +1,10 @@
 # Notes-on-Advanced-Mathematics
-This repository collects the supplementary materials (in forms of pdf files) that I delivered as teaching assistants of the course Advanced Mathematics. 
+
+这个仓库收集了我作为高等数学课的助教时给出的补充材料。另外一些教材也可以在这里找到。
+
+## 关于补充材料的说明：
+
+- 笔记按照学期和课程而非内容归类。课程 *高等数学（一）* 主要涉及极限、连续性、单变元函数的微积分学、空间解析几何和多元函数微分学。课程 *高等数学（二）* 主要涉及多元积分、曲线（曲面）积分、常微分方程、级数和广义积分。
+- 所有的补充材料都是pdf格式，没有上传原始的tex格式文件。
+- 这些材料大部分独立于教材之外，不能替代课程内容或教材。
+- 目前收集的教材包括：李忠等编著的《高等数学》（上、下两册，第三版）。
